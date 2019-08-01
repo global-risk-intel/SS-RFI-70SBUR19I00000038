@@ -24,11 +24,7 @@ Global Risk Intelligence
 Tel: +1 954-470-5442
 jhoffman@globalriskintel.com
 
-For technical questions please contact
 
-Brendan Reilly
-Tel:  +1 203-722-1209 
-Email:  breilly@qlytics.com
 
 We recognize that the landscape with which we are dealing changes quickly, and could result in the need for adjustments in the composition of the information provided within this repository.  We are excited about the prospects of supporting the U.S. Citizenship and Immigration Services (USCIS) Office of Information Technology and are open to continued communications regarding our business and technical collaboration.
 _________________________________________________________________________
